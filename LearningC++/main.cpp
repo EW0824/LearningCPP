@@ -7,8 +7,21 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
+int main() {
     // insert code here...
-    std::cout << "Hello, World!\n";
+//    char str_name[100];
+//    printf("Enter Your Name, lil B: ");
+//    scanf("%s", str_name);
+    std::cout << "Hello, Earth!\n";
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
