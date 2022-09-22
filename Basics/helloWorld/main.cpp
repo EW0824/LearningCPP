@@ -1,11 +1,12 @@
 //
 //  main.cpp
-//  LearningC++
+//  helloWorld
 //
-//  Created by OAA on 20/07/2022.
+//  Created by OAA on 26/07/2022.
 //
 
 // built in library for std, cout
+
 #include <iostream>
 #include <string>
 

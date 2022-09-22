@@ -1,8 +1,8 @@
 //
 //  main.cpp
-//  Practice
+//  Recap
 //
-//  Created by OAA on 20/07/2022.
+//  Created by OAA on 26/07/2022.
 //
 
 #include <iostream>
@@ -65,6 +65,15 @@ int main(int argc, const char * argv[]) {
     for (size_t i{0}; i<10; i++) {
         cout << "scores[" << i << "]: " << scores[i] << endl;
     }
+     
+     
+    // RANGE BASED FOR LOOPS!!
+    double temperatures[3] {1.2, 3.4, 3.6}
+     
+    for (auto temp:temperatures) {
+        cout << temp << endl;
+    }
+     
 
     // character arrays can be printed straight away without loops
     
@@ -77,9 +86,8 @@ int main(int argc, const char * argv[]) {
     
     // DO NOT GO OVER ARRAY BOUNDS!
     
+    
     return 0;
 
 }
  
-
-

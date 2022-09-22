@@ -1,8 +1,8 @@
 //
-//  Advanced.cpp
-//  LearningC++
+//  main.cpp
+//  Advanced
 //
-//  Created by OAA on 21/07/2022.
+//  Created by OAA on 26/07/2022.
 //
 
 #include <iostream>
@@ -146,14 +146,3 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-

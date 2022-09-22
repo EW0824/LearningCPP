@@ -1,8 +1,8 @@
 //
-//  drawingAShape.cpp
-//  LearningC++
+//  main.cpp
+//  drawingAShape
 //
-//  Created by OAA on 21/07/2022.
+//  Created by OAA on 26/07/2022.
 //
 
 #include <iostream>
