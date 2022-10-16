@@ -35,6 +35,9 @@ int main(int argc, const char * argv[]) {
     cout << A[1] << endl;
     
     
+    // DEFAULT VALUE: ojust 0. Hence to initiate a vector of size 10 filled with zeros:
+    vector<int> defaultV (10);
+    defaultV[5] = 4;
     
     
     //
@@ -55,6 +58,7 @@ int main(int argc, const char * argv[]) {
         }
     }
     
+    // twoD.push_back({a, b});
     
     
     
@@ -155,6 +159,8 @@ int main(int argc, const char * argv[]) {
     
     // SETS -> INSERTING IN RANDOM ORDER
     
+    
+    // Properties: UNIQUE, UNORDERED
     
     
     set<int> S;
